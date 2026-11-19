@@ -1,0 +1,5 @@
+CompileFlags:
+	Add: [-Wno-microsoft-cpp-macro]
+Diagnostics:
+	Suppress:
+		- pp_operator_used_as_macro_name
